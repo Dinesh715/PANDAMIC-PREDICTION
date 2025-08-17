@@ -35,11 +35,16 @@ This project demonstrates **advanced epidemiological contact tracing** and **geo
 ├── pandamic_project.ipynb # Main Jupyter Notebook
 
 ├── theni_map.html # Interactive Map (Leaflet/Folium)
+
 ├── theni_map_screenshot.png # Map Screenshot (Preview)
+
 ├── livedata.json # Input JSON Dataset
+
 ├── livedata.csv # Input CSV Dataset
+
 ├── clustered.csv # Output clustered results
-└── README.md # Project Documentation
+
+├── README.md # Project Documentation
 
 ---
 
