@@ -33,18 +33,12 @@ This project demonstrates **advanced epidemiological contact tracing** and **geo
 ## 📂 Project Structure
 
 ├── pandamic_project.ipynb # Main Jupyter Notebook
-
 ├── theni_map.html # Interactive Map (Leaflet/Folium)
-
 ├── theni_map_screenshot.png # Map Screenshot (Preview)
-
 ├── livedata.json # Input JSON Dataset
-
 ├── livedata.csv # Input CSV Dataset
-
 ├── clustered.csv # Output clustered results
-
-├── README.md # Project Documentation
+└── README.md # Project Documentation
 
 ---
 
@@ -62,41 +56,4 @@ This project demonstrates **advanced epidemiological contact tracing** and **geo
 Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn folium scikit-learn tensorflow
-```
-
-## ▶️ How to Run
-Clone the repository:
-
-git clone https://github.com/Dinesh715/PANDAMIC-PREDICTION.git
-cd PANDAMIC-PREDICTION
-
-Open the Jupyter Notebook:
-
-jupyter notebook pandamic_project.ipynb
-
-Run the cells step by step to:
-
-Load datasets
-
-Perform clustering
-
-Generate visualizations
-
-To view the interactive map:
-
-Open theni_map.html in your browser
-
-## 📊 Example Output
-
-Clustered Data (clustered.csv) → DBSCAN output with cluster IDs
-
-Heatmap Animation → Time-lapse of infection spread over Theni district
-
-## 🌍 Use Cases
-
-Real-time pandemic monitoring
-
-Contact tracing during outbreaks
-
-Geospatial epidemiology research
 
