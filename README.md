@@ -63,3 +63,6 @@ Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn folium scikit-learn tensorflow
 
+▶️ How to Run
+Clone the repository:
+
