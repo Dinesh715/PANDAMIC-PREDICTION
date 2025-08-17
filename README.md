@@ -31,3 +31,22 @@ This project demonstrates **advanced epidemiological contact tracing** and **geo
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚙️ Requirements
+- Python 3.x  
+- Libraries:
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  - `seaborn`
+  - `folium`
+  - `scikit-learn`
+  - `tensorflow` (optional, for ML extensions)
+
+Install dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn folium scikit-learn tensorflow
+
