@@ -66,3 +66,7 @@ pip install pandas numpy matplotlib seaborn folium scikit-learn tensorflow
 ▶️ How to Run
 Clone the repository:
 
+git clone https://github.com/your-username/pandemic-tracing.git
+cd pandemic-tracing
+
+
