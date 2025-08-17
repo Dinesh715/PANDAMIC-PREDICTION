@@ -86,13 +86,13 @@ To view the interactive map:
 
 Open theni_map.html in your browser
 
-📊 Example Output
+##📊 Example Output
 
 Clustered Data (clustered.csv) → DBSCAN output with cluster IDs
 
 Heatmap Animation → Time-lapse of infection spread over Theni district
 
-🌍 Use Cases
+##🌍 Use Cases
 
 Real-time pandemic monitoring
 
@@ -100,7 +100,7 @@ Contact tracing during outbreaks
 
 Geospatial epidemiology research
 
-📜 License
+##📜 License
 
 This project is licensed under the MIT License – free to use and modify.
 
