@@ -67,8 +67,8 @@ pip install pandas numpy matplotlib seaborn folium scikit-learn tensorflow
 ## ▶️ How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/pandemic-tracing.git
-cd pandemic-tracing
+git clone https://github.com/Dinesh715/PANDAMIC-PREDICTION.git
+cd PANDAMIC-PREDICTION
 
 Open the Jupyter Notebook:
 
@@ -99,8 +99,4 @@ Real-time pandemic monitoring
 Contact tracing during outbreaks
 
 Geospatial epidemiology research
-
-## 📜 License
-
-This project is licensed under the MIT License – free to use and modify.
 
